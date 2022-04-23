@@ -1,4 +1,4 @@
-const { readline, print } = require("./utils");
+const { readline, print } = require("../../utils");
 
 let lines = [];
 while ((line = readline())) {
